@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260322155653CPQ5FB</value>
+    <value>202603221629503A7PON</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260322155653LB0JFX</value>
+    <value>202603221629506SQ20E</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1774191388707</value>
+    <value>1774193371514</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,7 +85,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvk-wkkig30ym</odePageId>
+  <odePageId>page-mn1wxau4-madoavklu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Misión: Rescate animal</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -121,7 +121,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvk-wkkig30ym</odePageId>
+      <odePageId>page-mn1wxau4-madoavklu</odePageId>
       <odeBlockId>block-1773938883117-nz090i7hl</odeBlockId>
       <blockName>¿Estáis preparados? ¡Comenzamos!</blockName>
       <iconName></iconName>
@@ -150,14 +150,14 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvk-wkkig30ym</odePageId>
+          <odePageId>page-mn1wxau4-madoavklu</odePageId>
           <odeBlockId>block-1773938883117-nz090i7hl</odeBlockId>
           <odeIdeviceId>idevice-1773938883109-pxcai27ag</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="asset://d645bcfd-7075-8a8a-1bb6-030d86dd5924.jpg" width="760" height="1035" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+    <p><img src="{{context_path}}/content/resources/Portada.JPG" width="760" height="1035" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773938883109-pxcai27ag","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://d645bcfd-7075-8a8a-1bb6-030d86dd5924.jpg\" width=\"760\" height=\"1035\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773938883109-pxcai27ag","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Portada.JPG\" width=\"760\" height=\"1035\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -177,7 +177,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mn1vqsvk-wkkig30ym</odePageId>
+      <odePageId>page-mn1wxau4-madoavklu</odePageId>
       <odeBlockId>block-1773939130341-ppoecvu29</odeBlockId>
       <blockName>Temporalización</blockName>
       <iconName></iconName>
@@ -206,14 +206,14 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvk-wkkig30ym</odePageId>
+          <odePageId>page-mn1wxau4-madoavklu</odePageId>
           <odeBlockId>block-1773939130341-ppoecvu29</odeBlockId>
           <odeIdeviceId>idevice-1773939130335-m62fxogxz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="asset://084198e3-c11c-65e0-27cc-801d18ac48df.jpg" title="Temporalización" width="800" height="2000" alt="Aquí podemos ver cómo vamos a organizar el desarrollo de nuestra Situación de Aprendizaje. Rescate Animal" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+    <p><img src="{{context_path}}/content/resources/Módulo 7.jpg" title="Temporalización" width="800" height="2000" alt="Aquí podemos ver cómo vamos a organizar el desarrollo de nuestra Situación de Aprendizaje. Rescate Animal" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773939130335-m62fxogxz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://084198e3-c11c-65e0-27cc-801d18ac48df.jpg\" title=\"Temporalización\" width=\"800\" height=\"2000\" alt=\"Aquí podemos ver cómo vamos a organizar el desarrollo de nuestra Situación de Aprendizaje. Rescate Animal\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773939130335-m62fxogxz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Módulo 7.jpg\" title=\"Temporalización\" width=\"800\" height=\"2000\" alt=\"Aquí podemos ver cómo vamos a organizar el desarrollo de nuestra Situación de Aprendizaje. Rescate Animal\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -235,7 +235,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvo-bxj5eso5m</odePageId>
+  <odePageId>page-mn1wxau8-2uv4j617i</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Nos protegemos en línea</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -271,7 +271,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvo-bxj5eso5m</odePageId>
+      <odePageId>page-mn1wxau8-2uv4j617i</odePageId>
       <odeBlockId>block-1774111478583-idfbqq085</odeBlockId>
       <blockName>Antes de comenzar, vamos a dar una pautas sobre como actuar cuando navegamos por Internet</blockName>
       <iconName></iconName>
@@ -300,14 +300,14 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvo-bxj5eso5m</odePageId>
+          <odePageId>page-mn1wxau8-2uv4j617i</odePageId>
           <odeBlockId>block-1774111478583-idfbqq085</odeBlockId>
           <odeIdeviceId>idevice-1774111478580-wjabc0m3e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="asset://4a4ba63d-fa7e-cff5-6a47-85895141acf6.jpg" width="943" height="2000" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+    <p><img src="{{context_path}}/content/resources/Consejo seguridad en línea.jpg" width="943" height="2000" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774111478580-wjabc0m3e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://4a4ba63d-fa7e-cff5-6a47-85895141acf6.jpg\" width=\"943\" height=\"2000\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774111478580-wjabc0m3e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Consejo seguridad en línea.jpg\" width=\"943\" height=\"2000\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -329,7 +329,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvp-qcxn500yk</odePageId>
+  <odePageId>page-mn1wxau8-rnu04bot7</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Conocemos al camaleón</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -365,7 +365,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvp-qcxn500yk</odePageId>
+      <odePageId>page-mn1wxau8-rnu04bot7</odePageId>
       <odeBlockId>block-1773940856724-zdd19tqrr</odeBlockId>
       <blockName>¿Qué sabemos del camaleón? Lluvia de ideas</blockName>
       <iconName></iconName>
@@ -394,15 +394,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvp-qcxn500yk</odePageId>
+          <odePageId>page-mn1wxau8-rnu04bot7</odePageId>
           <odeBlockId>block-1773940856724-zdd19tqrr</odeBlockId>
           <odeIdeviceId>idevice-1773940856721-hv7t8kdwa</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p style="text-align: center;">Es un animal increíble que puede cambiar de color para esconderse o mostrar cómo se siente. Tiene unos ojos mágicos que se mueven hacia todos lados para vigilarlo todo y una lengua muy larga y pegajosa para atrapar insectos en un abrir y cerrar de ojos. Además, gracias a sus patitas en forma de pinza, ¡es un experto trepando árboles sin caerse!</p>
-<p><img src="asset://5ab24dc5-6106-7c8c-6501-3df720a7f765.jpg" title="Camaleón" width="768" height="480" alt="Camaleón" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/Camaleón.jpg" title="Camaleón" width="768" height="480" alt="Camaleón" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773940856721-hv7t8kdwa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Es un animal increíble que puede cambiar de color para esconderse o mostrar cómo se siente. Tiene unos ojos mágicos que se mueven hacia todos lados para vigilarlo todo y una lengua muy larga y pegajosa para atrapar insectos en un abrir y cerrar de ojos. Además, gracias a sus patitas en forma de pinza, ¡es un experto trepando árboles sin caerse!</p>\n<p><img src=\"asset://5ab24dc5-6106-7c8c-6501-3df720a7f765.jpg\" title=\"Camaleón\" width=\"768\" height=\"480\" alt=\"Camaleón\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773940856721-hv7t8kdwa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Es un animal increíble que puede cambiar de color para esconderse o mostrar cómo se siente. Tiene unos ojos mágicos que se mueven hacia todos lados para vigilarlo todo y una lengua muy larga y pegajosa para atrapar insectos en un abrir y cerrar de ojos. Además, gracias a sus patitas en forma de pinza, ¡es un experto trepando árboles sin caerse!</p>\n<p><img src=\"{{context_path}}/content/resources/Camaleón.jpg\" title=\"Camaleón\" width=\"768\" height=\"480\" alt=\"Camaleón\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -422,7 +422,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mn1vqsvp-qcxn500yk</odePageId>
+      <odePageId>page-mn1wxau8-rnu04bot7</odePageId>
       <odeBlockId>block-1774103411243-1ioxix5k3</odeBlockId>
       <blockName>Visualizamos al camaleón</blockName>
       <iconName></iconName>
@@ -451,7 +451,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvp-qcxn500yk</odePageId>
+          <odePageId>page-mn1wxau8-rnu04bot7</odePageId>
           <odeBlockId>block-1774103411243-1ioxix5k3</odeBlockId>
           <odeIdeviceId>idevice-1774103411240-kz5mywkqr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -481,7 +481,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvq-66o08jpct</odePageId>
+  <odePageId>page-mn1wxaua-50begjdmb</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿Qué se escucha?</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -517,7 +517,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvq-66o08jpct</odePageId>
+      <odePageId>page-mn1wxaua-50begjdmb</odePageId>
       <odeBlockId>block-1774103970104-u31elyr3i</odeBlockId>
       <blockName>¿Eres capaz de adivinar el animal según su sonido?</blockName>
       <iconName></iconName>
@@ -546,7 +546,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvq-66o08jpct</odePageId>
+          <odePageId>page-mn1wxaua-50begjdmb</odePageId>
           <odeBlockId>block-1774103970104-u31elyr3i</odeBlockId>
           <odeIdeviceId>idevice-1774103970101-l5g5jpmrg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -576,7 +576,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvr-uwjh48kz6</odePageId>
+  <odePageId>page-mn1wxaua-xhqn01ljf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿Cómo son los animales?</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -612,7 +612,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvr-uwjh48kz6</odePageId>
+      <odePageId>page-mn1wxaua-xhqn01ljf</odePageId>
       <odeBlockId>block-1774107789768-xn271c0ct</odeBlockId>
       <blockName>Los animales cumplen misiones muy importantes para que nuestro planeta esté sano y feliz. Algunos viven libres en la naturaleza y otros conviven con nosotros, pero todos tienen cuerpos y formas de nacer diferentes que los hacen únicos. Conocer cómo viven y qué necesitan es el primer paso para aprender a valorar a todos los seres vivos del mundo.</blockName>
       <iconName></iconName>
@@ -641,7 +641,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvr-uwjh48kz6</odePageId>
+          <odePageId>page-mn1wxaua-xhqn01ljf</odePageId>
           <odeBlockId>block-1774107789768-xn271c0ct</odeBlockId>
           <odeIdeviceId>idevice-1774107789758-0bhjm56pp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -670,7 +670,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mn1vqsvr-uwjh48kz6</odePageId>
+      <odePageId>page-mn1wxaua-xhqn01ljf</odePageId>
       <odeBlockId>block-1774107903373-pc5rd9q7s</odeBlockId>
       <blockName>Comprueba lo que sabes</blockName>
       <iconName></iconName>
@@ -699,7 +699,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvr-uwjh48kz6</odePageId>
+          <odePageId>page-mn1wxaua-xhqn01ljf</odePageId>
           <odeBlockId>block-1774107903373-pc5rd9q7s</odeBlockId>
           <odeIdeviceId>idevice-1774107903370-vscdim5t7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -728,7 +728,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvs-9j5uxckow</odePageId>
+  <odePageId>page-mn1wxaub-i7a5aa4oi</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿Vertebrado o invertebrado?</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -764,7 +764,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvs-9j5uxckow</odePageId>
+      <odePageId>page-mn1wxaub-i7a5aa4oi</odePageId>
       <odeBlockId>block-1774108226279-9pybtjodg</odeBlockId>
       <blockName>Los animales son increíbles y cada uno tiene una tarea especial para cuidar la naturaleza. Algunos tienen huesos fuertes y otros son blanditos, y mientras unos comen ricas plantas, otros prefieren carne para tener mucha energía. Saber qué comen y cómo es su cuerpo nos ayuda a respetarlos y a proteger el mundo donde todos vivimos.</blockName>
       <iconName></iconName>
@@ -793,18 +793,18 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvs-9j5uxckow</odePageId>
+          <odePageId>page-mn1wxaub-i7a5aa4oi</odePageId>
           <odeBlockId>block-1774108226279-9pybtjodg</odeBlockId>
           <odeIdeviceId>idevice-1774108226277-ueub491x8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="asset://ca6a5208-b3d3-9fed-9a21-57348f2ca2ca.png" width="1536" height="857" alt="" /></p>
+    <p><img src="{{context_path}}/content/resources/Imagen características animales.png" width="1536" height="857" alt="" /></p>
 <p></p>
 <p></p>
 <p style="text-align: center;">A continuación, en parejas, vamos a jugar a un juego sobre los animales vertebrados e invertebrados. ¡Tú puedes!</p>
 <p><a href="https://es.educaplay.com/recursos-educativos/594030-animales_vertebrados_e_invertebrados.html" id="link_1">https://es.educaplay.com/recursos-educativos/594030-animales_vertebrados_e_invertebrados.html</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774108226277-ueub491x8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://ca6a5208-b3d3-9fed-9a21-57348f2ca2ca.png\" width=\"1536\" height=\"857\" alt=\"\" /></p>\n<p></p>\n<p></p>\n<p style=\"text-align: center;\">A continuación, en parejas, vamos a jugar a un juego sobre los animales vertebrados e invertebrados. ¡Tú puedes!</p>\n<p><a href=\"https://es.educaplay.com/recursos-educativos/594030-animales_vertebrados_e_invertebrados.html\" id=\"link_1\">https://es.educaplay.com/recursos-educativos/594030-animales_vertebrados_e_invertebrados.html</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774108226277-ueub491x8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Imagen características animales.png\" width=\"1536\" height=\"857\" alt=\"\" /></p>\n<p></p>\n<p></p>\n<p style=\"text-align: center;\">A continuación, en parejas, vamos a jugar a un juego sobre los animales vertebrados e invertebrados. ¡Tú puedes!</p>\n<p><a href=\"https://es.educaplay.com/recursos-educativos/594030-animales_vertebrados_e_invertebrados.html\" id=\"link_1\">https://es.educaplay.com/recursos-educativos/594030-animales_vertebrados_e_invertebrados.html</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -826,7 +826,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvt-14wiyqiab</odePageId>
+  <odePageId>page-mn1wxaud-g6454fq20</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Compruebo lo que he aprendido</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -862,7 +862,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvt-14wiyqiab</odePageId>
+      <odePageId>page-mn1wxaud-g6454fq20</odePageId>
       <odeBlockId>block-1774108842947-l5da2hfhy</odeBlockId>
       <blockName>¡Los animales son increíbles y muy importantes para nuestro planeta! Algunos nacen del vientre de su madre y otros salen de un huevo, y mientras unos tienen huesos fuertes como nosotros, otros son más blanditos. Conocer cómo es cada animalito nos ayuda a cuidarlos mucho mejor porque todos son especiales.</blockName>
       <iconName></iconName>
@@ -891,7 +891,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvt-14wiyqiab</odePageId>
+          <odePageId>page-mn1wxaud-g6454fq20</odePageId>
           <odeBlockId>block-1774108842947-l5da2hfhy</odeBlockId>
           <odeIdeviceId>idevice-1774108842944-jphqwv8tj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -922,7 +922,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvt-31lcpgamn</odePageId>
+  <odePageId>page-mn1wxaue-uyyuqugzg</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Creo mi tarea final</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -958,7 +958,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvt-31lcpgamn</odePageId>
+      <odePageId>page-mn1wxaue-uyyuqugzg</odePageId>
       <odeBlockId>block-1774109991732-osn80opfa</odeBlockId>
       <blockName>¿Sabías que podemos tener un muro mágico con nuestros Chroobooks?Ese muro se llama Padlet. Es como una cartulina gigante donde todos podemos pegar notas, dibujos, fotos y vídeos divertidos.Es muy fácil de usar:Recuerda todo lo que has aprendido sobre los animalesPega fotos de animales y sus características. También puedes grabarte diciendo la información.Comparte con tus compañeros y compañeras de clase.¡Vamos a crear nuestro propio muro para llenar el mundo de colores y cosas geniales!</blockName>
       <iconName></iconName>
@@ -987,7 +987,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvt-31lcpgamn</odePageId>
+          <odePageId>page-mn1wxaue-uyyuqugzg</odePageId>
           <odeBlockId>block-1774109991732-osn80opfa</odeBlockId>
           <odeIdeviceId>idevice-1774109991731-jo6qd8fk5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1016,7 +1016,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvu-xplvcaw9k</odePageId>
+  <odePageId>page-mn1wxaue-9sneeeikg</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Evaluación</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -1052,7 +1052,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvu-xplvcaw9k</odePageId>
+      <odePageId>page-mn1wxaue-9sneeeikg</odePageId>
       <odeBlockId>block-1774109109998-wwn55otzt</odeBlockId>
       <blockName>Lista de cotejo: Se usará de forma
 continua, pero con especial atención durante las sesiones interactivas de
@@ -1088,7 +1088,7 @@ tarea.</blockName>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvu-xplvcaw9k</odePageId>
+          <odePageId>page-mn1wxaue-9sneeeikg</odePageId>
           <odeBlockId>block-1774109109998-wwn55otzt</odeBlockId>
           <odeIdeviceId>idevice-1774109109997-sa4hkgxfg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1117,7 +1117,7 @@ tarea.</blockName>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mn1vqsvu-xplvcaw9k</odePageId>
+      <odePageId>page-mn1wxaue-9sneeeikg</odePageId>
       <odeBlockId>block-1774110280271-1tu6ar2ra</odeBlockId>
       <blockName>La diana evalúa el proceso
 de aprendizaje desde la perspectiva del propio alumno, centrándose en
@@ -1158,14 +1158,14 @@ según su percepción.</blockName>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvu-xplvcaw9k</odePageId>
+          <odePageId>page-mn1wxaue-9sneeeikg</odePageId>
           <odeBlockId>block-1774110280271-1tu6ar2ra</odeBlockId>
           <odeIdeviceId>idevice-1774110280269-ejj7d2bzp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="asset://bb1ecb16-c604-9854-d956-513311167e70.jpg" width="722" height="720" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+    <p><img src="{{context_path}}/content/resources/diana evaluación.jpg" width="722" height="720" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774110280269-ejj7d2bzp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://bb1ecb16-c604-9854-d956-513311167e70.jpg\" width=\"722\" height=\"720\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774110280269-ejj7d2bzp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/diana evaluación.jpg\" width=\"722\" height=\"720\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1185,7 +1185,7 @@ según su percepción.</blockName>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mn1vqsvu-xplvcaw9k</odePageId>
+      <odePageId>page-mn1wxaue-9sneeeikg</odePageId>
       <odeBlockId>block-1774113995690-10eb5bp0w</odeBlockId>
       <blockName>Enlace Instrumentos de Evaluación</blockName>
       <iconName></iconName>
@@ -1214,7 +1214,7 @@ según su percepción.</blockName>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvu-xplvcaw9k</odePageId>
+          <odePageId>page-mn1wxaue-9sneeeikg</odePageId>
           <odeBlockId>block-1774113995690-10eb5bp0w</odeBlockId>
           <odeIdeviceId>idevice-1774113995689-y5pijfsrd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1243,7 +1243,7 @@ según su percepción.</blockName>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvv-48qv8u3ux</odePageId>
+  <odePageId>page-mn1wxauf-xcgsuvhh5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -1279,7 +1279,7 @@ según su percepción.</blockName>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvv-48qv8u3ux</odePageId>
+      <odePageId>page-mn1wxauf-xcgsuvhh5</odePageId>
       <odeBlockId>block-1774111964777-mtv08e43z</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1308,7 +1308,7 @@ según su percepción.</blockName>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvv-48qv8u3ux</odePageId>
+          <odePageId>page-mn1wxauf-xcgsuvhh5</odePageId>
           <odeBlockId>block-1774111964777-mtv08e43z</odeBlockId>
           <odeIdeviceId>idevice-1774111964775-5ngnvgpc8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1342,7 +1342,7 @@ según su percepción.</blockName>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mn1vqsvv-iwdutha0p</odePageId>
+  <odePageId>page-mn1wxauf-804wp0bk3</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>10</odeNavStructureOrder>
@@ -1378,7 +1378,7 @@ según su percepción.</blockName>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mn1vqsvv-iwdutha0p</odePageId>
+      <odePageId>page-mn1wxauf-804wp0bk3</odePageId>
       <odeBlockId>block-1774112837663-1c80phnza</odeBlockId>
       <blockName>Criterios de evaluación</blockName>
       <iconName></iconName>
@@ -1407,14 +1407,14 @@ según su percepción.</blockName>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvv-iwdutha0p</odePageId>
+          <odePageId>page-mn1wxauf-804wp0bk3</odePageId>
           <odeBlockId>block-1774112837663-1c80phnza</odeBlockId>
           <odeIdeviceId>idevice-1774112837660-qwznct9y6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="asset://539541db-72b8-2ee7-a87a-2bd060b90757.jpg" width="1312" height="755" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+    <p><img src="{{context_path}}/content/resources/Imagen criterios.jpg" width="1312" height="755" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774112837660-qwznct9y6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://539541db-72b8-2ee7-a87a-2bd060b90757.jpg\" width=\"1312\" height=\"755\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774112837660-qwznct9y6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Imagen criterios.jpg\" width=\"1312\" height=\"755\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1434,7 +1434,7 @@ según su percepción.</blockName>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mn1vqsvv-iwdutha0p</odePageId>
+      <odePageId>page-mn1wxauf-804wp0bk3</odePageId>
       <odeBlockId>block-1774113529630-1ij3vxitb</odeBlockId>
       <blockName>Pautas a los docentes</blockName>
       <iconName></iconName>
@@ -1463,7 +1463,7 @@ según su percepción.</blockName>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mn1vqsvv-iwdutha0p</odePageId>
+          <odePageId>page-mn1wxauf-804wp0bk3</odePageId>
           <odeBlockId>block-1774113529630-1ij3vxitb</odeBlockId>
           <odeIdeviceId>idevice-1774113529628-pmreoipz3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
